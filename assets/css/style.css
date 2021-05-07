@@ -949,7 +949,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 60px 0;
-  background: url('../img/cse-timetable.jpg') no-repeat;
+  background: url('../img/testimonials-bg.jpg') no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1616,7 +1616,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url('../img/footer.jfif') center center no-repeat;
+  background: url('../img/cse-footer.jpg') center center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
